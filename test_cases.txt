@@ -1,0 +1,5 @@
+Input: 90 → Grade A
+Input: 80 → Grade B
+Input: 70 → Grade C
+Input: 60 → Grade D
+Input: 45 → Grade F
